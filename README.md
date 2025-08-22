@@ -43,9 +43,5 @@ We welcome contributors to help improve station models, navigation accuracy, and
 - Create a feature branch  
 - Commit your changes  
 - Open a Pull Request  
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
 ---
 🚉 *MargSewa — Your Smart Railway Station Guide with AR/VR Navigation*
